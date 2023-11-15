@@ -4,7 +4,7 @@ Meditation App
 ![Design preview](./MeditationAppReadMe.png)
 
 
-Description
+
 This meditation app allows users to choose meditation durations (5, 15, or 30 minutes) and ambient sounds (ocean waves and rainfall) for relaxation and focus.
 
 Technologies
